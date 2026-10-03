@@ -367,3 +367,9 @@ Architectural Developer Onboarding Guide
 > local Edge control loop.
 
 ---
+- **Team members**
+- @chamika-u
+- @Ravindulakshan2393
+- @amanda-ari
+- @romethdesilva
+- @aadhilakuthub
